@@ -64,7 +64,7 @@ Repository Structure
 plaintext
 /
 ├── README.md          # This file — full project explanation
-└── annproj.ipynb     # COMPLETE PROJECT: all code, models, analysis and results
+└── ANNPROJ.zip     # COMPLETE PROJECT: all code, models, analysis and results
 Skills Demonstrated
 
 Image processing: detection, correction, segmentation, enhancement
