@@ -1,4 +1,4 @@
-#Sudometrics Project — AI Image Analysis for Diabetic Neuropathy Screening
+# Sudometrics Project — AI Image Analysis for Diabetic Neuropathy Screening
 GitHub: NKAI2202Location: Cambridge, UKStatus: Completed Project
 Project Overview
 This project develops a complete AI‑powered image analysis pipeline to quantitatively assess sudomotor function from Neuropad test images, used for early detection of diabetic peripheral neuropathy (DPN). The system processes mobile‑captured photos, corrects for capture variations, segments colour regions, and provides a probabilistic measure of dysfunction — offering a robust, reproducible alternative to visual inspection.
